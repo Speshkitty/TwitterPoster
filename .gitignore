@@ -362,3 +362,4 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /TwitterPoster/Properties/launchSettings.json
+/TwitterPoster/aws-lambda-tools-defaults.json
